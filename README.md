@@ -1,6 +1,7 @@
 # Act-2.1 : Collections D'objets
 
    OBJECTIFS : 
+   
      - Comprendre l'utilité des Collections.
      - Apprendre à identifier quelle implémentation utiliser selon les besoins.
      - Connaître algorithmes principaux (.contains(), .get(), ...).
